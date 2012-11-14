@@ -1,4 +1,3 @@
-
 # ![Byblo](https://raw.github.com/MLCL/Byblo/develop/docs/logo/byblo_logo_320.png)
 
 Byblo is a software package for the construction of large-scale *distributional thesauri*. It provides an efficient yet flexible framework for calculating all pair-wise similarities between terms in a corpus.
@@ -131,7 +130,7 @@ There are a large number of options. To view a complete list enter ```./byblo.sh
 
 This project is supported a TSB (Technology Strategy Board) grant reference GCL-100934, and by the [EPSRC Doctoral Training Account Scheme](http://www.epsrc.ac.uk/funding/students/dta).
 
-Special thanks to all members of the Machine Learning and Computational Linguistics Lab, Department of Informatics, University of Sussex, for all the helpful input.
+Special thanks to all members of the Machine Learning and Computational Linguistics Lab, Department of Informatics, University of Sussex, for all the helpful input. Awesome logo design by David Sheldrick and Joanne Robert.
 
 ## Contributing
 
