@@ -1,4 +1,5 @@
-# Byblo
+
+# ![Byblo](https://raw.github.com/MLCL/Byblo/develop/docs/logo/byblo_logo_320.png)
 
 Byblo is a software package for the construction of large-scale *distributional thesauri*. It provides an efficient yet flexible framework for calculating all pair-wise similarities between terms in a corpus.
 
