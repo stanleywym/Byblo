@@ -128,7 +128,7 @@ There are a large number of options. To view a complete list enter ```./byblo.sh
 
 ## Attribution 
 
-This project is supported a [TSB (Technology Strategy Board)](http://www.innovateuk.org/) grant reference GCL-100934, and by the [EPSRC Doctoral Training Account Scheme](http://www.epsrc.ac.uk/funding/students/dta).
+This project is supported by the [TSB (Technology Strategy Board)](http://www.innovateuk.org/) grant reference GCL-100934, and by the [EPSRC Doctoral Training Account Scheme](http://www.epsrc.ac.uk/funding/students/dta).
 
 Special thanks to all members of the Machine Learning and Computational Linguistics Lab, Department of Informatics, University of Sussex, for all the helpful input. Awesome logo design by David Sheldrick and Joanne Robert.
 
