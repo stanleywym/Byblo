@@ -34,8 +34,11 @@ The resultant thesaurus will have a highly semantic notion of similarity. The ne
 
 ## Distribution 
 
-The software is primarily distributed in source-code form. Binaries may be available sporadically, and on request. 
-The source code can be acquired from the [github repository](https://github.com/MLCL/Byblo), click the *Downloads* button, and select a version to download an archive of the source code.
+The full binary distribution with all dependencies can be downloaded from our maven repository:
+
+### [Download Byblo 2.1.0](http://kungf.eu:8081/nexus/content/repositories/releases/uk/ac/susx/mlcl/Byblo/2.1.0/Byblo-2.1.0-bin-with-deps.zip) ###
+
+Alternatively, the source code can be aquired from the [github repository](https://github.com/MLCL/Byblo), either by cloning the repository or specific versions can be downloaded from the [*Tags* page](https://github.com/MLCL/Byblo/tag).
 
 ## Dependencies
 
